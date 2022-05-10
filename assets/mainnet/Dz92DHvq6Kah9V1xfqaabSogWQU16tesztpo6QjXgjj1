@@ -1,0 +1,17 @@
+        "twitter": "https://twitter.com/investrarfsh",
+         "website": "https://twitter.com/investrarfsh"
+       }
+     },
+     {
+       "chainId": 101,
+       "address": "Dz92DHvq6Kah9V1xfqaabSogWQU16tesztpo6QjXgjj1",
+       "symbol": "RARFSH",
+       "name": "Rare Fish",
+       "decimals": 9,
+       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Creative-Tail-Animal-fish.svg/2048px-Creative-Tail-Animal-fish.svg.png",
+       "tags": [
+         "social-token"
+       ]
+     }
+   ],
+   "version": {
